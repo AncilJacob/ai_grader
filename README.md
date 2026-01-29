@@ -5,7 +5,7 @@ This project is an automated grading system designed to assist educators in eval
 
 ## Technologies Used
 * **Frontend:** Streamlit
-* **Backend:** Python (FastAPI ready)
+* **Backend:** Python 
 * **Database:** MySQL
 * **Computer Vision:** OpenCV, EasyOCR
 * **NLP/AI:** Sentence-Transformers (SBERT), PyTorch
@@ -14,10 +14,9 @@ This project is an automated grading system designed to assist educators in eval
 ## Student Details
 * **Name:** Ancil Jacob
 * **Qualification:** MCA Student
-* **Contact:** [Your Email or LinkedIn Link]
-
+* **Contact:** ancilj.mca2426@saintgits.org
 ## Project Guide
-* **Name:** [Insert Guide's Name Here]
+* **Name:** Anithamol KP
 
 ---
 *Status: Initial Working Version (v0.4.0) - Role-based authentication and semantic grading logic implemented.*
